@@ -11,5 +11,9 @@
     "javascript"
   ],
   "author": "0x8251ae8c",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
 }
